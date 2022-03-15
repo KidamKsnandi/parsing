@@ -1,0 +1,41 @@
+{
+    "name": "Kidam Kusnandi",
+    "age": 17,
+    "gender": "Laki-laki",
+    "hobi": [
+        "Coding",
+        "Main Game",
+        "Membaca"
+    ],
+    "github": {
+        "username": "KidamKsnandi",
+        "repository": 40
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "Flutter: Introduction",
+            "subtitle": "Beautiful native apps with Dart Language"
+        },
+        {
+            "id": 1,
+            "title": "Flutter: LinearLayout",
+            "subtitle": "How to design LinearLayout in Flutter"
+        },
+        {
+            "id": 1,
+            "title": "Flutter: RelativeLayout",
+            "subtitle": "How to design Relativelayout in Flutter"
+        }
+    ],
+    "contact": {
+        "1": {
+            "name": "Personal",
+            "phone": "083807464449"
+        },
+        "2": {
+            "name": "Work",
+            "phone": "085838949849"
+        }
+    }
+}
