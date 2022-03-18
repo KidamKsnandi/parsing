@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'package:parsing/profile.dart';
 import 'package:parsing/sample_json.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
@@ -13,7 +14,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: MyHomePage(),
+      debugShowCheckedModeBanner: false,
+      home: Profile(),
     );
   }
 }

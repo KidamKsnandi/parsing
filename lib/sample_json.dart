@@ -69,7 +69,7 @@ class Article {
   });
   @override
   String toString() {
-    return 'Article{id: $id, title: $title, subtitle: $subtitle}';
+    return 'id: $id, title: $title, subtitle: $subtitle';
   }
 
   factory Article.fromJson(Map<String, dynamic> json) {

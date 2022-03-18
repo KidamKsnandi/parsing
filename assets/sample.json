@@ -5,7 +5,9 @@
     "hobi": [
         "Coding",
         "Main Game",
-        "Membaca"
+        "Membaca",
+        "Menulis",
+        "Menggambar"
     ],
     "github": {
         "username": "KidamKsnandi",
@@ -18,12 +20,12 @@
             "subtitle": "Beautiful native apps with Dart Language"
         },
         {
-            "id": 1,
+            "id": 2,
             "title": "Flutter: LinearLayout",
             "subtitle": "How to design LinearLayout in Flutter"
         },
         {
-            "id": 1,
+            "id": 3,
             "title": "Flutter: RelativeLayout",
             "subtitle": "How to design Relativelayout in Flutter"
         }
